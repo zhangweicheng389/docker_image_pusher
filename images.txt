@@ -1,1 +1,2 @@
 grafana/grafana:12.0.1
+sooperset/mcp-atlassian:latest
